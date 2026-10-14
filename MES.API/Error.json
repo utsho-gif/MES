@@ -1,0 +1,116 @@
+{
+  "ApplicationError": [
+    {
+      "Code": "500",
+      "MessageEN": "Internal Server Error.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "3001",
+      "MessageEN": "Authentication failed.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "4000",
+      "MessageEN": "Resource not found.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "4001",
+      "MessageEN": "Validation error.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "4003",
+      "MessageEN": "No data found.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "5001",
+      "MessageEN": "Attempt failed.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "6001",
+      "MessageEN": "User already exists.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "6002",
+      "MessageEN": "Role already exists.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "104",
+      "MessageEN": "Invalid request parameters.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "103",
+      "MessageEN": "Please provide username and password.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "2",
+      "MessageEN": "Login failed, please try again.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "6004",
+      "MessageEN": "Role is already mapped to user.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "107",
+      "MessageEN": "No role found.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "109",
+      "MessageEN": "User is inactive or deleted.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "18456",
+      "MessageEN": "Cannot access database.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    },
+    {
+      "Code": "53",
+      "MessageEN": "Network / Internet connection error.",
+      "HeadingTextEN": "Failed",
+      "Page": 1,
+      "Status": "Failed"
+    }
+  ]
+}

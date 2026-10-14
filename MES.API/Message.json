@@ -1,0 +1,32 @@
+{
+  "ApplicationMessage": [
+    {
+      "Code": "200",
+      "MessageEN": "Operation completed successfully.",
+      "HeadingTextEN": "Success",
+      "Page": 1,
+      "Status": "Success"
+    },
+    {
+      "Code": "201",
+      "MessageEN": "Created successfully.",
+      "HeadingTextEN": "Success",
+      "Page": 1,
+      "Status": "Success"
+    },
+    {
+      "Code": "9101",
+      "MessageEN": "Password updated successfully.",
+      "HeadingTextEN": "Success",
+      "Page": 1,
+      "Status": "Success"
+    },
+    {
+      "Code": "9102",
+      "MessageEN": "Status updated successfully.",
+      "HeadingTextEN": "Success",
+      "Page": 1,
+      "Status": "Success"
+    }
+  ]
+}
